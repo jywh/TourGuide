@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:weightSum="1" android:orientation="vertical"
+	android:layout_width="250dp" android:layout_height="250dp">
+	<LinearLayout android:layout_height="35dp"
+		android:layout_width="match_parent" android:orientation="horizontal"
+		android:weightSum="1" android:id="@+id/linearLayout1" android:background="@color/offwhite">
+		<TextView android:lines="1" android:layout_width="match_parent"
+			android:padding="3dp" android:textColor="@color/black" android:id="@+id/textView_author"
+			android:layout_weight="1" android:textSize="13sp" android:layout_height="match_parent" android:layout_gravity="center" android:text="Text" android:gravity="center_vertical">
+		</TextView>
+		<TextView android:id="@+id/textView_date1"
+			android:gravity="center"
+			android:textColor="@color/black" android:layout_height="match_parent"
+			android:text="date" android:layout_width="61dp"></TextView>
+		<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:id="@+id/imageView_remove" android:src="@drawable/ic_remove" android:visibility="gone"></ImageView>
+	</LinearLayout>
+	<ScrollView android:id="@+id/scrollView1"
+		android:layout_above="@+id/linearLayout2" android:layout_below="@+id/linearLayout1"
+		android:layout_alignParentLeft="true" android:layout_alignParentRight="true"
+		android:background="@color/gray93" android:layout_width="match_parent" android:layout_height="match_parent">
+		<LinearLayout android:id="@+id/linearLayout3"
+			android:layout_width="match_parent" android:layout_height="match_parent"
+			android:weightSum="1" android:orientation="vertical">
+			<ImageView android:layout_width="match_parent"
+	android:layout_height="94dp" android:id="@+id/imageView_photo"
+	android:scaleType="fitCenter" android:src="@drawable/ic_edit"></ImageView>
+			<TextView android:text="TextView" android:layout_width="match_parent"
+				android:id="@+id/textView_note" android:padding="5dp"
+				android:gravity="top|left" android:textColor="@color/black"
+				android:scrollbars="none" android:textSize="16sp" android:layout_height="wrap_content"></TextView>
+		</LinearLayout>
+	</ScrollView>
+
+</RelativeLayout>
+

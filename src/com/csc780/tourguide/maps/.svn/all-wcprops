@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/141/trunk/TourGuide/src/com/csc780/tourguide/maps
+END
+MyLocationItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/141/trunk/TourGuide/src/com/csc780/tourguide/maps/MyLocationItemizedOverlay.java
+END
+CameraView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133/trunk/TourGuide/src/com/csc780/tourguide/maps/CameraView.java
+END
+DisplayTrackingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/102/trunk/TourGuide/src/com/csc780/tourguide/maps/DisplayTrackingActivity.java
+END
+RouteOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/TourGuide/src/com/csc780/tourguide/maps/RouteOverlay.java
+END
+TrackingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/135/trunk/TourGuide/src/com/csc780/tourguide/maps/TrackingInfo.java
+END
+NearbyLocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/TourGuide/src/com/csc780/tourguide/maps/NearbyLocationInfo.java
+END
+PrefsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/TourGuide/src/com/csc780/tourguide/maps/PrefsActivity.java
+END
+FindLocationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/141/trunk/TourGuide/src/com/csc780/tourguide/maps/FindLocationActivity.java
+END
+MapCompassView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/TourGuide/src/com/csc780/tourguide/maps/MapCompassView.java
+END
+AddNoteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/136/trunk/TourGuide/src/com/csc780/tourguide/maps/AddNoteDialog.java
+END
+NoteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/TourGuide/src/com/csc780/tourguide/maps/NoteDialog.java
+END
+LocationItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/141/trunk/TourGuide/src/com/csc780/tourguide/maps/LocationItemizedOverlay.java
+END
+ServerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/TourGuide/src/com/csc780/tourguide/maps/ServerInterface.java
+END
+TrackingItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/143/trunk/TourGuide/src/com/csc780/tourguide/maps/TrackingItemizedOverlay.java
+END
+DisplayTrackingInfoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/140/trunk/TourGuide/src/com/csc780/tourguide/maps/DisplayTrackingInfoActivity.java
+END
+ImageNoteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/134/trunk/TourGuide/src/com/csc780/tourguide/maps/ImageNoteDialog.java
+END
+AddImageNoteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/143/trunk/TourGuide/src/com/csc780/tourguide/maps/AddImageNoteDialog.java
+END
+ApplicationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/137/trunk/TourGuide/src/com/csc780/tourguide/maps/ApplicationSettings.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/135/trunk/TourGuide/src/com/csc780/tourguide/maps/ReadFile.java
+END

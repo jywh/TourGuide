@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="170dp"
+	android:layout_height="170dp">
+	<LinearLayout android:layout_width="match_parent"
+		android:id="@+id/linearLayout1" android:layout_height="30dp"
+		android:background="@color/offwhite" android:orientation="horizontal">
+		<TextView android:text="TextView" android:textSize="13sp"
+			android:id="@+id/textView_author" android:layout_height="wrap_content"
+			android:layout_width="wrap_content" android:textColor="@color/black"
+			android:layout_gravity="center" android:layout_weight="1"
+			android:lines="1" android:layout_marginLeft="3dp"></TextView>
+		<TextView android:text="TextView" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/textView_date"
+			android:layout_gravity="center" android:textSize="13sp"
+			android:textColor="@color/black" android:lines="1"
+			android:layout_marginLeft="3dp" android:layout_marginRight="3dp"></TextView>
+		<ImageView android:src="@drawable/ic_edit"
+			android:layout_height="30dp" android:layout_width="30dp"
+			android:id="@+id/imageView_edit" android:visibility="gone"></ImageView>
+		<ImageView android:layout_weight="1" android:src="@drawable/ic_remove"
+			android:layout_height="30dp" android:layout_width="30dp"
+			android:visibility="gone" android:id="@+id/imageView_remove"></ImageView>
+	</LinearLayout>
+	<ScrollView android:layout_width="match_parent" android:id="@+id/scrollView1"
+		android:layout_height="match_parent" android:scrollbars="none"
+		android:background="@color/gray93">
+		<TextView android:text="TextView" android:layout_width="match_parent"
+			android:id="@+id/textView_note" android:padding="5dp"
+			android:gravity="top|left" android:textColor="@color/black"
+			android:scrollbars="none" android:layout_height="match_parent"
+			android:textSize="16sp"></TextView>
+	</ScrollView>
+
+</LinearLayout>

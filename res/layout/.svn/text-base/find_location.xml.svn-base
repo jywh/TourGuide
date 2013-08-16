@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_height="match_parent" android:id="@+id/rotate_layout"
+	android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+	<com.google.android.maps.MapView
+		android:id="@+id/mapview" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:clickable="true"
+		android:apiKey="@string/map_key" android:layout_alignParentBottom="true"
+		android:layout_alignParentTop="true" />
+	<com.csc780.tourguide.maps.MapCompassView
+		android:id="@+id/imageView_compass_needle" android:layout_height="wrap_content"
+		android:layout_width="wrap_content" android:layout_below="@+id/textView_accuracy"
+		android:layout_alignParentLeft="true"/>
+</RelativeLayout>

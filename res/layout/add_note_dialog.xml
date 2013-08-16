@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_height="220dp"
+	android:layout_width="220dp">
+	<LinearLayout android:orientation="horizontal" android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:weightSum="1"
+		android:layout_height="35dp">
+		<EditText android:background="@color/offwhite" android:id="@+id/editText_author"
+			android:inputType="textCapSentences" android:padding="3dp"
+			android:layout_height="match_parent" android:textSize="13sp"
+			android:hint="Author" android:layout_weight="1" android:textColor="@color/black"
+			android:layout_width="match_parent" android:lines="1">
+		</EditText>
+		<TextView android:layout_width="60dp" android:layout_height="match_parent"
+			android:gravity="center" android:textColor="@color/black"
+			android:background="@color/offwhite" android:id="@+id/textView_date1"
+			android:text="date"></TextView>
+	</LinearLayout>
+	<ScrollView android:layout_width="match_parent" android:id="@+id/scrollView1"
+		android:layout_height="match_parent" android:layout_weight="1"
+		android:fillViewport="true">
+		<EditText android:layout_width="match_parent" android:id="@+id/editText_body"
+			android:gravity="top|left" android:padding="3dp" android:background="@color/gray93"
+			android:textColor="@color/black" android:textSize="14sp"
+			android:inputType="textCapSentences|textMultiLine"
+			android:capitalize="sentences" android:layout_height="140dp"
+			android:hint="Body:Press Back button to cancel"></EditText>
+	</ScrollView>
+	<LinearLayout android:id="@+id/linearLayout2"
+		android:layout_width="match_parent" android:layout_height="wrap_content"
+		android:orientation="horizontal" android:background="@color/gray93">
+		<Button android:id="@+id/button_save" android:text="Save"
+			android:layout_weight="1" android:layout_width="match_parent"
+			android:layout_margin="2dp" android:layout_height="40dp"></Button>
+		<Button android:id="@+id/button_cancel" android:text="Cancel"
+			android:layout_width="match_parent" android:layout_weight="1"
+			android:layout_margin="2dp" android:layout_height="40dp"></Button>
+	</LinearLayout>
+
+</LinearLayout>

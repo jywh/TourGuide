@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/133/trunk/TourGuide/res/layout
+END
+add_note_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/109/trunk/TourGuide/res/layout/add_note_dialog.xml
+END
+tracking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/92/trunk/TourGuide/res/layout/tracking.xml
+END
+view_image_note_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/126/trunk/TourGuide/res/layout/view_image_note_dialog.xml
+END
+find_location.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/trunk/TourGuide/res/layout/find_location.xml
+END
+camera_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/133/trunk/TourGuide/res/layout/camera_preview.xml
+END
+add_image_note_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124/trunk/TourGuide/res/layout/add_image_note_dialog.xml
+END
+note_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/126/trunk/TourGuide/res/layout/note_dialog.xml
+END

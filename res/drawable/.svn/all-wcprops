@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/142/trunk/TourGuide/res/drawable
+END
+location_off.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/location_off.png
+END
+ic_menu_mapview.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_menu_mapview.png
+END
+ic_back_unselected.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_back_unselected.png
+END
+ic_remove.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_remove.png
+END
+location_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/location_on.png
+END
+ic_camera.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_camera.png
+END
+back_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/back_bg.xml
+END
+forward_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/forward_bg.xml
+END
+ic_menu_note.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_menu_note.png
+END
+ic_back_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_back_selected.png
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/list_selector.xml
+END
+ic_edit.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_edit.png
+END
+note.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/note.png
+END
+ic_forward_unselected.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_forward_unselected.png
+END
+note_green.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/note_green.png
+END
+ic_add_location.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_add_location.png
+END
+ic_forward_selected.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_forward_selected.png
+END
+ic_find_memo.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_find_memo.png
+END
+ic_menu_camera.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_menu_camera.png
+END
+ic_menu_satellite.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_menu_satellite.png
+END
+ic_compass_needle.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/trunk/TourGuide/res/drawable/ic_compass_needle.png
+END

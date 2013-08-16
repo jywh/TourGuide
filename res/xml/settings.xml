@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:title="@string/distance" android:defaultValue="0" android:key="pref_distance" android:entries="@array/radius_array" android:summary="@string/distance_summary" android:entryValues="@array/radus_values"></ListPreference>
+    
+</PreferenceScreen>

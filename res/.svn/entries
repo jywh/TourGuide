@@ -1,0 +1,52 @@
+10
+
+dir
+142
+https://tour-guide-csc780.googlecode.com/svn/trunk/TourGuide/res
+https://tour-guide-csc780.googlecode.com/svn
+
+
+
+2011-12-02T00:05:11.119118Z
+142
+sahar.wenhui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3d7e6bb8-8307-25c9-29e6-ce4dcc876340
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+xml
+dir
+

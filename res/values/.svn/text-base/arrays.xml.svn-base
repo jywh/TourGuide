@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="radius_array">
+        <item>1/2 mile</item>
+        <item>1 mile</item>
+        <item>2 miles</item>
+    </string-array>
+    <string-array name="radus_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    </string-array>
+</resources>

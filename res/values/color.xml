@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name = "smokewhite">#F5F5F5</color>
+  <color name = "gray">#CFCFCF</color>
+  <color name= "light_gray">#CCCCCC</color> 
+  <color name="gray93">#EDEDED</color>
+  <color name="black">#000000</color> 
+  <color name="offwhite">#DDDDDD</color>
+</resources>
